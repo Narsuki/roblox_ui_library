@@ -19,7 +19,7 @@ local LocalPlayer = Players.LocalPlayer
 local Mouse = LocalPlayer:GetMouse()
 
 -- Kurumi Tokisaki Image ID
-local KURUMI_IMAGE_ID = "rbxassetid://14975057913" -- Replace with actual Kurumi image ID
+local KURUMI_IMAGE_ID = "rbxassetid://133116099589707" -- Replace with actual Kurumi image ID
 
 function Library:Create(config)
     local windowName = config.Name or "Library"
